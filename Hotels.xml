@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Hotels>
+  <!-- Example from Figure 1 -->
+  <Hotel Rating="4.2">
+    <Name>Red Roof Inn</Name>
+    <Address Number="11">
+      <Street>E.7th St</Street>
+      <City>Tempe</City>
+      <State>AZ</State>
+      <NearestAirport>Sky Harbor</NearestAirport>
+      <Zip>85281</Zip>
+    </Address>
+    <Phone>800-937-8461</Phone>
+    <Phone>480-968-8885</Phone>
+  </Hotel>
+  <!-- 10 additional hotels -->
+  <Hotel Rating="3.8">
+    <Name>Hilton Garden Inn Phoenix</Name>
+    <Address Number="100">
+      <Street>5445 E High St</Street>
+      <City>Phoenix</City>
+      <State>AZ</State>
+      <NearestAirport>Phoenix Sky Harbor</NearestAirport>
+      <Zip>85054</Zip>
+    </Address>
+    <Phone>602-765-1234</Phone>
+  </Hotel>
+  <Hotel Rating="4.5">
+    <Name>Marriott Courtyard</Name>
+    <Address Number="202">
+      <Street>121 W Washington St</Street>
+      <City>Phoenix</City>
+      <State>AZ</State>
+      <NearestAirport>Phoenix Sky Harbor</NearestAirport>
+      <Zip>85003</Zip>
+    </Address>
+    <Phone>602-262-8588</Phone>
+  </Hotel>
+  <Hotel Rating="4.0">
+    <Name>Homewood Suites Tempe</Name>
+    <Address Number="750">
+      <Street>S Hardy Dr</Street>
+      <City>Tempe</City>
+      <State>AZ</State>
+      <NearestAirport>Sky Harbor</NearestAirport>
+      <Zip>85281</Zip>
+    </Address>
+    <Phone>480-894-9707</Phone>
+    <Phone>480-894-9708</Phone>
+  </Hotel>
+  <Hotel Rating="3.9">
+    <Name>Holiday Inn Express</Name>
+    <Address Number="1335">
+      <Street>E University Dr</Street>
+      <City>Tempe</City>
+      <State>AZ</State>
+      <NearestAirport>Sky Harbor</NearestAirport>
+      <Zip>85281</Zip>
+    </Address>
+    <Phone>480-222-1234</Phone>
+  </Hotel>
+  <Hotel Rating="4.7">
+    <Name>Arizona Grand Resort</Name>
+    <Address Number="8000">
+      <Street>S Georgia Rd</Street>
+      <City>Tempe</City>
+      <State>AZ</State>
+      <NearestAirport>Sky Harbor</NearestAirport>
+      <Zip>85283</Zip>
+    </Address>
+    <Phone>480-719-1000</Phone>
+  </Hotel>
+  <Hotel Rating="4.3">
+    <Name>The Westin Kierland Resort</Name>
+    <Address Number="6902">
+      <Street>E Greenway Pkwy</Street>
+      <City>Scottsdale</City>
+      <State>AZ</State>
+      <NearestAirport>Phoenix Sky Harbor</NearestAirport>
+      <Zip>85254</Zip>
+    </Address>
+    <Phone>480-624-1000</Phone>
+  </Hotel>
+  <Hotel Rating="4.1">
+    <Name>JW Marriott Phoenix Desert Ridge</Name>
+    <Address Number="5350">
+      <Street>E Marriott Dr</Street>
+      <City>Phoenix</City>
+      <State>AZ</State>
+      <NearestAirport>Sky Harbor</NearestAirport>
+      <Zip>85054</Zip>
+    </Address>
+    <Phone>480-991-4100</Phone>
+  </Hotel>
+  <Hotel Rating="4.0">
+    <Name>Embassy Suites Phoenix</Name>
+    <Address Number="2577">
+      <Street>W Greenway Rd</Street>
+      <City>Phoenix</City>
+      <State>AZ</State>
+      <NearestAirport>Sky Harbor</NearestAirport>
+      <Zip>85023</Zip>
+    </Address>
+    <Phone>602-975-9966</Phone>
+  </Hotel>
+  <Hotel Rating="3.7">
+    <Name>La Quinta Inn & Suites</Name>
+    <Address Number="1130">
+      <Street>W Southern Ave</Street>
+      <City>Tempe</City>
+      <State>AZ</State>
+      <NearestAirport>Sky Harbor</NearestAirport>
+      <Zip>85282</Zip>
+    </Address>
+    <Phone>480-897-2777</Phone>
+  </Hotel>
+  <Hotel Rating="4.6">
+    <Name>Omni Scottsdale Resort & Spa</Name>
+    <Address Number="10600">
+      <Street>East Via Linda</Street>
+      <City>Scottsdale</City>
+      <State>AZ</State>
+      <NearestAirport>Phoenix Sky Harbor</NearestAirport>
+      <Zip>85258</Zip>
+    </Address>
+    <Phone>480-948-1700</Phone>
+  </Hotel>
+</Hotels>
