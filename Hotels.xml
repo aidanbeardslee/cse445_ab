@@ -104,7 +104,7 @@
     <Phone>602-975-9966</Phone>
   </Hotel>
   <Hotel Rating="3.7">
-    <Name>La Quinta Inn & Suites</Name>
+    <Name>La Quinta Inn and Suites</Name>
     <Address Number="1130">
       <Street>W Southern Ave</Street>
       <City>Tempe</City>
@@ -115,7 +115,7 @@
     <Phone>480-897-2777</Phone>
   </Hotel>
   <Hotel Rating="4.6">
-    <Name>Omni Scottsdale Resort & Spa</Name>
+    <Name>Omni Scottsdale Resort and Spa</Name>
     <Address Number="10600">
       <Street>East Via Linda</Street>
       <City>Scottsdale</City>
