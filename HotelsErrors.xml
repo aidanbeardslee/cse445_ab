@@ -29,4 +29,29 @@
     </Address>
   </Hotel>
 
+  <!-- 4) Missing <Phone> element -->
+  <Hotel Rating="3.0">
+    <Name>No Phone Hotel</Name>
+    <Address Number="732">
+      <Street>Third St</Street>
+      <City>Scottsdale</City>
+      <State>AZ</State>
+      <NearestAirport>Sky Harbor</NearestAirport>
+      <Zip>85251</Zip>
+    </Address>
+  </Hotel>
+
+  <!-- 5) Unclosed <Address> element -->
+  <Hotel Rating="4.0">
+    <Name>Unclosed Address Hotel</Name>
+    <Address Number="032">
+      <Street>Third St</Street>
+      <City>Glendale</City>
+      <State>AZ</State>
+      <NearestAirport>Sky Harbor</NearestAirport>
+      <Zip>85301</Zip>
+    <!-- Missing closing </Address> tag -->
+    <Phone>602-123-4567</Phone>
+  </Hotel>
+
 </Hotels>
